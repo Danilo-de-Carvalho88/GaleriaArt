@@ -1,12 +1,12 @@
 <h1 align=center>
-    <p>Galeria de arte 🎨</p>
+    <p>Galeria de Arte 🎨</p>
 </h1>
 
 <h1>
     <img src="imagens/GaleriaArt3.gif" alt="Galeria de arte">
 </h1>
 
-<h3 align="center"><a href="#">Acessar demonstração</a></h3>
+<h3 align="center"><a href="https://danilo-de-carvalho88.github.io/GaleriaArt/">Acessar demonstração</a></h3>
 
 ---
 
