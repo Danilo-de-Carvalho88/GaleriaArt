@@ -35,7 +35,7 @@ Segue as tecnologias utilizadas:
 1 - Clonar o repositório.
 
 ```bash
-    $ git clone https://danilo-de-carvalho88.github.io/menu-bank/
+    $ git clone https://danilo-de-carvalho88.github.io/GaleriaArt/
 ```
 
 2 - Entrar no diretório.
