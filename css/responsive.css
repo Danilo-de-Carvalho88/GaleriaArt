@@ -1,14 +1,11 @@
-@media(max-width: 300px){
-    .galeria {
-        background-color: aqua;
-    }
+@media(max-width: 636px){
 
-    body {
-        background-color: red;
+    .pinturas {
+        margin: 30px;
     }
 
     .pinturas .pintura {
-        max-width: 100px;
+        max-width: 200px;
     }
     
 }
