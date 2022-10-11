@@ -35,7 +35,7 @@ Segue as tecnologias utilizadas:
 1 - Clonar o repositório.
 
 ```bash
-    $ git clone https://danilo-de-carvalho88.github.io/GaleriaArt/
+    $ git clone https://github.com/Danilo-de-Carvalho88/GaleriaArt.git
 ```
 
 2 - Entrar no diretório.
