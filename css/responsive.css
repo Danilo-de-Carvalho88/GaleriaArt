@@ -1,7 +1,19 @@
+@media(max-width: 1280px){
+
+    .pinturas {
+        margin: 100px 0px;
+    }
+
+    .pinturas .pintura {
+        max-width: 230px;
+    }
+    
+}
+
 @media(max-width: 636px){
 
     .pinturas {
-        margin: 30px;
+        margin: 100px 0px;
     }
 
     .pinturas .pintura {

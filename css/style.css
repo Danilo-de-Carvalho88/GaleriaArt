@@ -2,6 +2,7 @@ body {
     font-family: 'Public Sans', sans-serif;
     background: url(../imagens/plano-de-fundo3.jpg) no-repeat;
     background-size: cover;
+    min-height: 100vh;
 }
 
 .galeria {
@@ -14,6 +15,7 @@ body {
     display: flex;
     gap: 20px;
     justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
     margin-top: 100px;
     
