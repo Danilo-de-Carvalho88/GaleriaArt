@@ -3,7 +3,7 @@
 </h1>
 
 <h1>
-    <img src="imagens/GaleriaArt3.gif" alt="Galeria de arte">
+    <img src="imagens/GaleriaPinturas.gif" alt="Galeria de arte">
 </h1>
 
 <h3 align="center"><a href="https://danilo-de-carvalho88.github.io/GaleriaArt/">Acessar demonstração</a></h3>
